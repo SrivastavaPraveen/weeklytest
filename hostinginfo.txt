@@ -1,0 +1,28 @@
+myWindowsHosting.com
+Knowledge Base
+Helpdesk
+PRAVEENSRI
+Hostings
+Domains
+Add-Ons
+Affiliate
+Billings
+Settings
+Helpdesk
+Available Balance: $0
+ Confirm New Hosting Account Info
+      Hosting Account ID:	praveensri-001
+      First Website Root Folder Name:	WeeklyQuiz
+      First Website Type:	ASP.NET
+      Hosting Plan Name:	W60-US
+      	
+      	Please Record The Following FTP Infomation:
+      FTP Address :	FTP.SITE4NOW.NET
+      FTP Username :	praveensri-001
+      FTP Password :	(same as your control panel password)
+      FTP Directory	\
+      	
+ 	    
+
+After you click on the 'Submit' button, it may take 1 to 3 minutes, please do not close this window.
+

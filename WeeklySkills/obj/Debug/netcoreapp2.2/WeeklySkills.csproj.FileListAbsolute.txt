@@ -1,0 +1,14 @@
+C:\Users\juhi\Documents\Test\WeeklySkills\bin\Debug\netcoreapp2.2\WeeklySkills.deps.json
+C:\Users\juhi\Documents\Test\WeeklySkills\bin\Debug\netcoreapp2.2\WeeklySkills.runtimeconfig.json
+C:\Users\juhi\Documents\Test\WeeklySkills\bin\Debug\netcoreapp2.2\WeeklySkills.runtimeconfig.dev.json
+C:\Users\juhi\Documents\Test\WeeklySkills\bin\Debug\netcoreapp2.2\WeeklySkills.dll
+C:\Users\juhi\Documents\Test\WeeklySkills\bin\Debug\netcoreapp2.2\WeeklySkills.pdb
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.csprojAssemblyReference.cache
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.csproj.CoreCompileInputs.cache
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.RazorAssemblyInfo.cache
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.RazorAssemblyInfo.cs
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.AssemblyInfoInputs.cache
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.AssemblyInfo.cs
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.RazorTargetAssemblyInfo.cache
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.dll
+C:\Users\juhi\Documents\Test\WeeklySkills\obj\Debug\netcoreapp2.2\WeeklySkills.pdb

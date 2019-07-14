@@ -1,0 +1,2 @@
+mongodb+srv://praveensri:Shambhavi01@cluster0-d3zby.gcp.mongodb.net/test?retryWrites=true&w=majority
+mongo "mongodb+srv://cluster0-d3zby.gcp.mongodb.net/test" --username praveensri
