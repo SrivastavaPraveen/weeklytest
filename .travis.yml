@@ -5,3 +5,8 @@ script:
  - cd WeeklySkills
  - dotnet restore
  - dotnet build
+
+deploy:
+  provider: gae
+  keyfile: "googledeploy.json"
+  project: "total-name-246706"
