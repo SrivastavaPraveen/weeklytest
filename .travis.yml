@@ -4,4 +4,4 @@ dotnet: 2.2.103
 script:
  - cd WeeklySkills
  - dotnet restore
-  - dotnet build
+ - dotnet build
